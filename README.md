@@ -1,2 +1,5 @@
-# Course_Projects_CG
-Course Assignments of Computer Graphics, Tongji Univ SSE
+### Course Project / Computer Graphics
+Course Assignments for Computer Graphics Tongji Univ
+
+### LICENSE
+GNU GPLv2
